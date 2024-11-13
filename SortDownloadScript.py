@@ -1,7 +1,7 @@
 import os
 import shutil
 
-folderPath = "C://Users//Jesse/Downloads/TestDownload" # change youruser with your username or update the directory to a custom one.
+folderPath = "C://Users//<user>/Downloads/" # change youruser with your username or update the directory to a custom one.
 folders = ["Images", "Videos", "Documents","Zips", "Executables", "Audio"] # Add or change folder names as you wish but will need to update the sort and move files section
 
 # checks if folders exists, if not creates them
