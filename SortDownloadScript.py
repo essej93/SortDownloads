@@ -1,6 +1,6 @@
 import os
 
-downloadPath = "C://Users//Jesse/Downloads/TestDownload"
+downloadPath = "C://Users//<youruser>/Downloads" # change youruser with your username or update the directory to a custom one.
 
 dir_list = os.listdir(downloadPath)
 
